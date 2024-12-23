@@ -1,4 +1,4 @@
 # Portfolio_rahul
-this is my personal details
+This is my personal details
 Rahul Mahaseth
 
